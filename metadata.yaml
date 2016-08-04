@@ -1,0 +1,56 @@
+_repo: The-Mysteries-of-Udolpho_3268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    alias: Radcliffe, Mrs.
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: http://en.wikipedia.org/wiki/Ann_Radcliffe
+description: "The Mysteries of Udolpho, by Ann Radcliffe, was published in four volumes\
+  \ on 8 May 1794 by G. G. and J. Robinson of London. The firm paid her £500 for the\
+  \ manuscript. The contract is housed at the University of Virginia Library. Her\
+  \ fourth and most popular novel, The Mysteries of Udolpho follows the fortunes of\
+  \ Emily St. Aubert, who suffers, among other misadventures, the death of her father,\
+  \ supernatural terrors in a gloomy castle and the machinations of an Italian brigand.\
+  \ Often cited as the archetypal Gothic novel, The Mysteries of Udolpho, along with\
+  \ Radcliffe's novel The Romance of the Forest, plays a prominent role in Jane Austen's\
+  \ novel Northanger Abbey, in which an impressionable young woman, after reading\
+  \ Radcliffe's novel, comes to see her friends and acquaintances as Gothic villains\
+  \ and victims with amusing results.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Gothic Fiction
+- Italy
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3268'
+  wikidata: Q2600909
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Castles -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Horror tales'
+- GITenberg
+title: The Mysteries of Udolpho
+url: http://www.gutenberg.org/ebooks/3268
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Myst%C3%A8res_d%27Udolphe
+- https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1_%D8%A3%D9%88%D8%AF%D9%88%D9%84%D9%81%D9%88
+- https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%89%E3%83%AB%E3%83%95%E3%82%A9%E3%81%AE%E7%A7%98%E5%AF%86
+- https://cs.wikipedia.org/wiki/Z%C3%A1hady_Udolfa
+- https://es.wikipedia.org/wiki/Los_misterios_de_Udolfo
+- https://en.wikipedia.org/wiki/The_Mysteries_of_Udolpho
+- https://it.wikipedia.org/wiki/I_misteri_di_Udolpho
+- https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A2%D7%9C%D7%95%D7%9E%D7%94_%D7%A9%D7%9C_%D7%90%D7%95%D7%93%D7%95%D7%9C%D7%A4%D7%95
