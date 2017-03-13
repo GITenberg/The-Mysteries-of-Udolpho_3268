@@ -1,5 +1,8 @@
 _repo: The-Mysteries-of-Udolpho_3268
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Radcliffe, Ann Ward
@@ -20,6 +23,8 @@ description: "The Mysteries of Udolpho, by Ann Radcliffe, was published in four 
   \ novel Northanger Abbey, in which an impressionable young woman, after reading\
   \ Radcliffe's novel, comes to see her friends and acquaintances as Gothic villains\
   \ and victims with amusing results.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3268#The-Mysteries-of-Udolpho
 gutenberg_bookshelf:
 - Gothic Fiction
 - Italy
